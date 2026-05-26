@@ -1,0 +1,7 @@
+django
+djnago-rest-framework
+psycopg2
+gunicorn
+django-cors-headers
+python-dotenv
+pandas

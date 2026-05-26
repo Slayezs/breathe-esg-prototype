@@ -1,0 +1,11 @@
+Traveler,Travel Type,Origin,Destination,Distance,Travel Date,Class,Booking Platform
+John Smith,Flight,JFK,LHR,5540,2026-04-12,Business,Concur
+Sarah Lee,Taxi,Bangalore Airport,Office,35,2026-04-13,Standard,Uber Business
+Michael Tan,Hotel,Singapore,Singapore,0,2026-04-14,4-Star,Navan
+Emma Brown,Flight,SFO,LAX,540,2026-04-15,Economy,Concur
+David Wilson,Train,Paris,Lyon,465,2026-04-16,First Class,Navan
+Lisa Wong,Flight,DEL,DXB,2190,2026-04-17,Business,Concur
+Chris Green,Taxi,Airport,Hotel,-20,2026-04-18,Standard,Uber Business
+Sophia White,Flight,SYD,MEL,713,2026-04-19,Economy,Navan
+James Black,Flight,LHR,JFK,5540,2026-04-20,Business,Concur
+Olivia Clark,Taxi,Client Site,Office,150000,2026-04-21,Standard,Uber Business

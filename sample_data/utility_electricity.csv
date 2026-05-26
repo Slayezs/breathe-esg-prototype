@@ -1,0 +1,11 @@
+Meter ID,Facility,Billing Start,Billing End,Usage,Unit,Tariff Type,Peak Demand
+MTR001,Plant A,2026-03-01,2026-03-31,1200,kWh,Commercial,300
+MTR002,Plant B,2026-03-15,2026-04-14,2,MWh,Industrial,450
+MTR003,Plant C,2026-04-01,2026-04-30,-500,kWh,Commercial,150
+MTR004,Plant D,2026-04-01,2026-04-30,180000,kWh,Industrial,600
+MTR005,Plant E,2026-04-01,2026-04-30,850,kWh,Commercial,200
+MTR006,Plant F,2026-04-01,2026-04-30,3,MWh,Industrial,700
+MTR007,Plant G,2026-04-01,2026-04-30,900,UnknownUnit,Commercial,250
+MTR008,Plant H,2026-04-01,2026-04-30,1400,kWh,Industrial,320
+MTR009,Plant I,2026-04-01,2026-04-30,1100,kWh,Commercial,280
+MTR010,Plant J,2026-04-01,2026-04-30,2500,kWh,Industrial,500

@@ -1,0 +1,11 @@
+Werk,Menge,Einheit,Brennstofftyp,Lieferant,Kostenstelle,Buchungsdatum,Waehrung,Betrag
+PLT01,500,L,Diesel,Shell Energy,CC1001,2026-04-12,EUR,850
+PLT02,1200,L,Petrol,BP Fuels,CC1002,2026-04-13,EUR,1900
+PLT03,750,L,Diesel,Total Energies,CC1003,2026-04-14,EUR,1200
+PLT04,2,MWh,Natural Gas,EON Energy,CC1004,2026-04-15,EUR,4300
+PLT05,-100,L,Diesel,Shell Energy,CC1005,2026-04-16,EUR,150
+PLT06,250000,L,Petrol,BP Fuels,CC1006,2026-04-17,EUR,400000
+PLT07,400,Gallon,Diesel,Total Energies,CC1007,2026-04-18,EUR,700
+PLT08,980,L,Diesel,Unknown Vendor,CC1008,2026-04-19,EUR,1400
+PLT09,300,L,Petrol,Shell Energy,CC1009,2026-04-20,EUR,500
+PLT10,1500,L,Diesel,BP Fuels,CC1010,2026-04-21,EUR,2400
