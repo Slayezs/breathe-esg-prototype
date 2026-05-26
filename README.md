@@ -11,6 +11,13 @@ The system ingests sustainability-related operational data from multiple enterpr
 
 ---
 
+# Live Deployment
+
+- Frontend: https://breathe-esg-prototype-xi.vercel.app
+- Backend API: https://breathe-esg-prototype-2pf5.onrender.com
+
+---
+
 # Supported Source Types
 
 The platform currently supports:
