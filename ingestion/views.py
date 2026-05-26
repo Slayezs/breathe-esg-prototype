@@ -8,12 +8,15 @@ from .utils import (normalize_unit,validate_record)
 from .parsers.sap_parser import parse_sap
 from .parsers.utility_parser import parse_utility
 from .parsers.travel_parser import parse_travel
+import os 
 
 
 class UploadAPIView(APIView):
 
     def post(self, request):
 
+        os.makedirs('media/uploads', exist_ok=True)
+        
         uploaded_file = request.FILES.get('file')
 
         source_type = request.data.get('source_type')
